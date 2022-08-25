@@ -8,7 +8,7 @@
 /**/pch
 
 #Compiles
-/**/buildTemp/
+/**/temp/
 /**/Release
 /**/Debug
 /**/log/
@@ -19,7 +19,7 @@
 /**/*.pdb
 
 # project
-/**/bin/*.exe
+
 
 
 
