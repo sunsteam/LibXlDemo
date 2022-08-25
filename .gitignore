@@ -1,0 +1,34 @@
+# ---> IDE
+/**/.idea
+/**/.vs/
+
+# Precompiled Headers
+/**/*.gch
+/**/ipch
+/**/pch
+
+#Compiles
+/**/buildTemp/
+/**/Release
+/**/Debug
+/**/log/
+/**/obj/
+*.ilk
+/**/*.aps
+/**/*.sdf
+/**/*.pdb
+
+# project
+/**/bin/*.exe
+
+
+
+#lib
+
+
+#ohter dir
+
+
+#ohter
+*.xls
+*.xlsx
